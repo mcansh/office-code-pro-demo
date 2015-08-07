@@ -1,0 +1,98 @@
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-medium.eot");
+  src: url("../fonts/officecodepro-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-medium.woff2") format("woff2"), url("../fonts/officecodepro-medium.woff") format("woff"), url("../fonts/officecodepro-medium.ttf") format("truetype"), url("../fonts/officecodepro-medium.svg#office_code_promedium") format("svg");
+  font-weight: bolder;
+  font-style: normal; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-mediumitalic.eot");
+  src: url("../fonts/officecodepro-mediumitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-mediumitalic.woff2") format("woff2"), url("../fonts/officecodepro-mediumitalic.woff") format("woff"), url("../fonts/officecodepro-mediumitalic.ttf") format("truetype"), url("../fonts/officecodepro-mediumitalic.svg#office_code_promedium_italic") format("svg");
+  font-weight: bolder;
+  font-style: italic; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-regular.eot");
+  src: url("../fonts/officecodepro-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-regular.woff2") format("woff2"), url("../fonts/officecodepro-regular.woff") format("woff"), url("../fonts/officecodepro-regular.ttf") format("truetype"), url("../fonts/officecodepro-regular.svg#office_code_proregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-regularitalic.eot");
+  src: url("../fonts/officecodepro-regularitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-regularitalic.woff2") format("woff2"), url("../fonts/officecodepro-regularitalic.woff") format("woff"), url("../fonts/officecodepro-regularitalic.ttf") format("truetype"), url("../fonts/officecodepro-regularitalic.svg#office_code_proregular_italic") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-bold.eot");
+  src: url("../fonts/officecodepro-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-bold.woff2") format("woff2"), url("../fonts/officecodepro-bold.woff") format("woff"), url("../fonts/officecodepro-bold.ttf") format("truetype"), url("../fonts/officecodepro-bold.svg#office_code_probold") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-bolditalic.eot");
+  src: url("../fonts/officecodepro-bolditalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-bolditalic.woff2") format("woff2"), url("../fonts/officecodepro-bolditalic.woff") format("woff"), url("../fonts/officecodepro-bolditalic.ttf") format("truetype"), url("../fonts/officecodepro-bolditalic.svg#office_code_probold_italic") format("svg");
+  font-weight: bold;
+  font-style: italic; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-light.eot");
+  src: url("../fonts/officecodepro-light.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-light.woff2") format("woff2"), url("../fonts/officecodepro-light.woff") format("woff"), url("../fonts/officecodepro-light.ttf") format("truetype"), url("../fonts/officecodepro-light.svg#office_code_prolight") format("svg");
+  font-weight: lighter;
+  font-style: normal; }
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-lightitalic.eot");
+  src: url("../fonts/officecodepro-lightitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-lightitalic.woff2") format("woff2"), url("../fonts/officecodepro-lightitalic.woff") format("woff"), url("../fonts/officecodepro-lightitalic.ttf") format("truetype"), url("../fonts/officecodepro-lightitalic.svg#office_code_prolight_italic") format("svg");
+  font-weight: lighter;
+  font-style: italic; }
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\000033}}
+body {
+  font-family: "office code pro"; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\000036}}
+bae {
+  font-family: "office code pro";
+  font-style: normal;
+  font-weight: bolder;
+  font-size: 48px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000313}}
+h1:nth-child(2) {
+  font-weight: bold;
+  font-style: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000317}}
+h1:nth-child(3) {
+  font-weight: bold;
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000321}}
+h1:nth-child(4) {
+  font-weight: bolder;
+  font-style: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000325}}
+h1:nth-child(5) {
+  font-weight: bolder;
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000329}}
+h1:nth-child(6) {
+  font-weight: normal;
+  font-style: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000333}}
+h1:nth-child(7) {
+  font-weight: normal;
+  font-style: italic; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000337}}
+h1:nth-child(8) {
+  font-weight: lighter;
+  font-style: normal; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/\/Users\/loganmcansh\/Desktop\/office-code-pro\/css\/master\.sass}line{font-family:\0000341}}
+h1:nth-child(9) {
+  font-weight: lighter;
+  font-style: italic; }
