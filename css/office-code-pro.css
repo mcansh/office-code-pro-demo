@@ -1,0 +1,55 @@
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-medium.eot");
+  src: url("../fonts/officecodepro-medium.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-medium.woff2") format("woff2"), url("../fonts/officecodepro-medium.woff") format("woff"), url("../fonts/officecodepro-medium.ttf") format("truetype"), url("../fonts/officecodepro-medium.svg#office_code_promedium") format("svg");
+  font-weight: bolder;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-mediumitalic.eot");
+  src: url("../fonts/officecodepro-mediumitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-mediumitalic.woff2") format("woff2"), url("../fonts/officecodepro-mediumitalic.woff") format("woff"), url("../fonts/officecodepro-mediumitalic.ttf") format("truetype"), url("../fonts/officecodepro-mediumitalic.svg#office_code_promedium_italic") format("svg");
+  font-weight: bolder;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-regular.eot");
+  src: url("../fonts/officecodepro-regular.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-regular.woff2") format("woff2"), url("../fonts/officecodepro-regular.woff") format("woff"), url("../fonts/officecodepro-regular.ttf") format("truetype"), url("../fonts/officecodepro-regular.svg#office_code_proregular") format("svg");
+  font-weight: normal;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-regularitalic.eot");
+  src: url("../fonts/officecodepro-regularitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-regularitalic.woff2") format("woff2"), url("../fonts/officecodepro-regularitalic.woff") format("woff"), url("../fonts/officecodepro-regularitalic.ttf") format("truetype"), url("../fonts/officecodepro-regularitalic.svg#office_code_proregular_italic") format("svg");
+  font-weight: normal;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-bold.eot");
+  src: url("../fonts/officecodepro-bold.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-bold.woff2") format("woff2"), url("../fonts/officecodepro-bold.woff") format("woff"), url("../fonts/officecodepro-bold.ttf") format("truetype"), url("../fonts/officecodepro-bold.svg#office_code_probold") format("svg");
+  font-weight: bold;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-bolditalic.eot");
+  src: url("../fonts/officecodepro-bolditalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-bolditalic.woff2") format("woff2"), url("../fonts/officecodepro-bolditalic.woff") format("woff"), url("../fonts/officecodepro-bolditalic.ttf") format("truetype"), url("../fonts/officecodepro-bolditalic.svg#office_code_probold_italic") format("svg");
+  font-weight: bold;
+  font-style: italic; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-light.eot");
+  src: url("../fonts/officecodepro-light.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-light.woff2") format("woff2"), url("../fonts/officecodepro-light.woff") format("woff"), url("../fonts/officecodepro-light.ttf") format("truetype"), url("../fonts/officecodepro-light.svg#office_code_prolight") format("svg");
+  font-weight: lighter;
+  font-style: normal; }
+
+@font-face {
+  font-family: 'office code pro';
+  src: url("../fonts/officecodepro-lightitalic.eot");
+  src: url("../fonts/officecodepro-lightitalic.eot?#iefix") format("embedded-opentype"), url("../fonts/officecodepro-lightitalic.woff2") format("woff2"), url("../fonts/officecodepro-lightitalic.woff") format("woff"), url("../fonts/officecodepro-lightitalic.ttf") format("truetype"), url("../fonts/officecodepro-lightitalic.svg#office_code_prolight_italic") format("svg");
+  font-weight: lighter;
+  font-style: italic; }
